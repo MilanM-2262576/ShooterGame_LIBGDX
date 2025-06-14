@@ -4,6 +4,13 @@ A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://git
 
 This project was generated with a template including simple application launchers and a main class extending `Game` that sets the first screen.
 
+## Description
+This 2d shooter game has simple mechanics:
+Move around: WASD
+You can shoot by using your mouse and the hitmarker to aim and click to shoot bullets.
+You have health + limited ammo.
+Their are pickups in the map that can spawn: Medpacks (They heal to full HP) and Ammo packs (They reload your ammo stash)
+
 ## Platforms
 
 - `core`: Main module with the application logic shared by all platforms.
