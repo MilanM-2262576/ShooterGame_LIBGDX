@@ -1,0 +1,33 @@
+player.png
+size: 1056, 48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gunner_Black_Crouch
+  rotate: false
+  xy: 0, 0
+  size: 144, 48
+  orig: 144, 48
+  offset: 0, 0
+  index: -1
+Gunner_Black_Death
+  rotate: false
+  xy: 144, 0
+  size: 384, 48
+  orig: 384, 48
+  offset: 0, 0
+  index: -1
+Gunner_Black_Idle
+  rotate: false
+  xy: 528, 0
+  size: 240, 48
+  orig: 240, 48
+  offset: 0, 0
+  index: -1
+Gunner_Black_Run
+  rotate: false
+  xy: 768, 0
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
